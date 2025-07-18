@@ -102,8 +102,7 @@ Copy the link, open it, and add it to the server of your choosing.
 After that, you are finished. Time to test!  
 ![FINALLY](tutorial-assets/fuuuuu.png)
 
-Thank you for choosing CliffHanger.  
-![MOREIMAGES?!?!!?](CliffHanger.png)
+Thank you for choosing CliffHanger!
 
 <a href="https://account.venmo.com/u/MeIsNegative" target="_blank">
   <button>Want to support the creator? &#x1F5D7;</button>
